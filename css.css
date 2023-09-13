@@ -33,6 +33,7 @@ body {
 }
 .remove-list {
     list-style-type: none;
+    padding: 0;
 }
 .iframe-container{
     position:relative;
